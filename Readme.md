@@ -116,6 +116,12 @@
 - [![GitHub stars](https://img.shields.io/github/stars/tradingview/charting-library-examples)](https://github.com/tradingview/charting-library-examples)
 - 渲染K线、分时图等金融交易图表。
 
+## [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
+
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/gitbrent/PptxGenJS)](https://github.com/gitbrent/PptxGenJS)
+- 在浏览器端生成PPT文件。
+
 ## [Painter](https://github.com/manycore-maas/Painter)
 
 - <kbd>小程序</kbd>
