@@ -86,59 +86,11 @@
 
 # 工程示范 & 实用工具
 
-## [VERT](https://github.com/VERT-sh/VERT)
-
-- <kbd>Web</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/VERT-sh/VERT)](https://github.com/VERT-sh/VERT)
-- 基于WebAssembly的文件格式转换工具。
-
-## [TrendRadar](https://github.com/sansan0/TrendRadar)
-
-- <kbd>Python</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar)](https://github.com/sansan0/TrendRadar)
-- 抓取各平台的新闻内容，追踪热点趋势。
-
-## [OpenBB](https://github.com/OpenBB-finance/OpenBB)
-
-- <kbd>Python</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB)
-- 金融投资信息的汇总平台，可用于研究和分析标的相关信息。
-
-## [snapdom](https://github.com/zumerlab/snapdom)
-
-- <kbd>JavaScript</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/zumerlab/snapdom)](https://github.com/zumerlab/snapdom)
-- Dom转图片方案，比html2canvas快好多倍。
-
 ## [acme.sh](https://github.com/acmesh-official/acme.sh)
 
 - <kbd>Shell</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/acmesh-official/acme.sh)](https://github.com/acmesh-official/acme.sh)
 - 自动更新SSL证书的运维神器。
-
-## [musicdl](https://github.com/CharlesPikachu/musicdl)
-
-- <kbd>Python</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/CharlesPikachu/musicdl)](https://github.com/CharlesPikachu/musicdl)
-- 从音乐平台下载音乐的工具。QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music等。
-
-## [universal_ble](https://github.com/Navideck/universal_ble)
-
-- <kbd>Flutter</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/Navideck/universal_ble)](https://github.com/Navideck/universal_ble)
-- 连接BLE蓝牙的Flutter库。
-
-## [mobile_scanner](https://github.com/juliansteenbakker/mobile_scanner)
-
-- <kdb>Flutter</kdb>
-- [![GitHub stars](https://img.shields.io/github/stars/juliansteenbakker/mobile_scanner)](https://github.com/juliansteenbakker/mobile_scanner)
-- 扫码Flutter库。
-
-## [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer)
-
-- <kbd>JavaScript</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer)](https://github.com/embedpdf/embed-pdf-viewer)
-- 在网页中优雅展示PDF。
 
 ## [Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer)
 
@@ -152,11 +104,13 @@
 - [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings)](https://github.com/facebookresearch/AnimatedDrawings)
 - 绘制一个卡通人物，模仿视屏中的人物动作。
 
-## [TradingView](https://github.com/tradingview/charting-library-examples)
+## [PaperStudio](https://github.com/jingguanzhang/PaperStudio)
 
 - <kbd>Web</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/tradingview/charting-library-examples)](https://github.com/tradingview/charting-library-examples)
-- 渲染K线、分时图等金融交易图表。
+- [![GitHub stars](https://img.shields.io/github/stars/jingguanzhang/PaperStudio)](https://github.com/jingguanzhang/PaperStudio)
+- 打印设计工具。
+
+# 前端开发
 
 ## [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
 
@@ -169,12 +123,6 @@
 - <kbd>小程序</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/manycore-maas/Painter)](https://github.com/manycore-maas/Painter)
 - 小程序Canvas画图工具。
-
-## [PaperStudio](https://github.com/jingguanzhang/PaperStudio)
-
-- <kbd>Web</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/jingguanzhang/PaperStudio)](https://github.com/jingguanzhang/PaperStudio)
-- 打印设计工具。
 
 ## [JsBarcode](https://github.com/lindell/JsBarcode)
 
@@ -212,11 +160,53 @@
 - [![GitHub stars](https://img.shields.io/github/stars/xiangyuecn/Recorder)](https://github.com/xiangyuecn/Recorder)
 - 浏览器录音方案。
 
+# Flutter开发
+
+## [universal_ble](https://github.com/Navideck/universal_ble)
+
+- <kbd>Flutter</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/Navideck/universal_ble)](https://github.com/Navideck/universal_ble)
+- 连接BLE蓝牙的Flutter库。
+
+## [mobile_scanner](https://github.com/juliansteenbakker/mobile_scanner)
+
+- <kdb>Flutter</kdb>
+- [![GitHub stars](https://img.shields.io/github/stars/juliansteenbakker/mobile_scanner)](https://github.com/juliansteenbakker/mobile_scanner)
+- 扫码Flutter库。
+
+# 格式转化、内容下载
+
+## [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer)
+
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer)](https://github.com/embedpdf/embed-pdf-viewer)
+- 在网页中优雅展示PDF。
+
+## [VERT](https://github.com/VERT-sh/VERT)
+
+- <kbd>Web</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/VERT-sh/VERT)](https://github.com/VERT-sh/VERT)
+- 基于WebAssembly的文件格式转换工具。
+
+## [snapdom](https://github.com/zumerlab/snapdom)
+
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/zumerlab/snapdom)](https://github.com/zumerlab/snapdom)
+- Dom转图片方案，比html2canvas快好多倍。
+
 ## [blind_watermark](https://github.com/guofei9987/blind_watermark)
 
 - <kbd>Python</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/guofei9987/blind_watermark)](https://github.com/guofei9987/blind_watermark)
 - 图片盲水印方案。
+
+## [musicdl](https://github.com/CharlesPikachu/musicdl)
+
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/CharlesPikachu/musicdl)](https://github.com/CharlesPikachu/musicdl)
+- 从音乐平台下载音乐的工具。QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music等。
+
+# 爬虫、RPA、浏览器自动化
 
 ## [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
 
@@ -242,5 +232,32 @@
 - WhatsApp RPA方案。
 
 ## [stealth.min.js](https://github.com/requireCool/stealth.min.js)
+
 - [![GitHub stars](https://img.shields.io/github/stars/requireCool/stealth.min.js)](https://github.com/requireCool/stealth.min.js)
 - 已废弃的指纹浏览器插件
+
+# 金融投资、信息平台
+
+## [TradingView](https://github.com/tradingview/charting-library-examples)
+
+- <kbd>Web</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/tradingview/charting-library-examples)](https://github.com/tradingview/charting-library-examples)
+- 渲染K线、分时图等金融交易图表。
+
+## [TrendRadar](https://github.com/sansan0/TrendRadar)
+
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar)](https://github.com/sansan0/TrendRadar)
+- 抓取各平台的新闻内容，追踪热点趋势。
+
+## [OpenBB](https://github.com/OpenBB-finance/OpenBB)
+
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB)
+- 金融投资信息的汇总平台，可用于研究和分析标的相关信息。
+
+## [Crucix](https://github.com/calesthio/Crucix)
+
+- <kbd>Web</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/calesthio/Crucix)](https://github.com/calesthio/Crucix)
+- 全球情报聚合仪表盘。
