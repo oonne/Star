@@ -17,6 +17,12 @@
 
 # 框架
 
+## [Playwright](https://github.com/microsoft/playwright)
+
+- <kbd>浏览器</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright)](https://github.com/microsoft/playwright)
+- 浏览器自动化框架。
+
 ## [Nest](https://github.com/nestjs/nest)
 
 - <kbd>Node.js后台框架</kbd>
@@ -74,11 +80,23 @@
 
 # 工程示范 & 实用工具
 
+## [acme.sh](https://github.com/acmesh-official/acme.sh)
+
+- <kbd>Shell</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/acmesh-official/acme.sh)](https://github.com/acmesh-official/acme.sh)
+- 自动更新SSL证书的运维神器。
+
 ## [universal_ble](https://github.com/Navideck/universal_ble)
 
-- <kbd>Flutter Widget</kbd>
+- <kbd>Flutter</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/Navideck/universal_ble)](https://github.com/Navideck/universal_ble)
-- 连接BLE蓝牙的Flutter Widget。
+- 连接BLE蓝牙的Flutter库。
+
+## [mobile_scanner](https://github.com/juliansteenbakker/mobile_scanner)
+
+- <kdb>Flutter</kdb>
+- [![GitHub stars](https://img.shields.io/github/stars/juliansteenbakker/mobile_scanner)](https://github.com/juliansteenbakker/mobile_scanner)
+- 扫码Flutter库。
 
 ## [Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer)
 
@@ -150,3 +168,9 @@
 - <kbd>Chrome</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/zmzimpl/chrome-power-app)](https://github.com/zmzimpl/chrome-power-app)
 - 已废弃的指纹浏览器。
+
+## [whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js)
+
+- <kbd>RPA</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/wwebjs/whatsapp-web.js)](https://github.com/wwebjs/whatsapp-web.js)
+- WhatsApp RPA方案。
