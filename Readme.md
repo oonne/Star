@@ -34,10 +34,10 @@
 - [![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js)](https://github.com/brix/crypto-js)
 - JS加密库。
 
-## [jsencrypt](httpsavist/jsencrypt)
+## [jsencrypt](https://github.com/travist/jsencrypt)
 
 - <kbd>JavaScript</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/httpsavist/jsencrypt)](https://github.com/httpsavist/jsencrypt)
+- [![GitHub stars](https://img.shields.io/github/stars/travist/jsencrypt)](https://github.com/travist/jsencrypt)
 - JS加密库。
 
 ## [socket.io](https://github.com/socketio/socket.io)
@@ -103,6 +103,12 @@
 - <kbd>JavaScript</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/mistic100/Photo-Sphere-Viewer)](https://github.com/mistic100/Photo-Sphere-Viewer)
 - 在网页中360度查看照片。
+
+## [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
+
+- <kbd>Web</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings)](https://github.com/facebookresearch/AnimatedDrawings)
+- 绘制一个卡通人物，模仿视屏中的人物动作。
 
 ## [TradingView](https://github.com/tradingview/charting-library-examples)
 
