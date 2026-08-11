@@ -122,11 +122,6 @@
 - [![GitHub stars](https://img.shields.io/github/stars/lindell/JsBarcode)](https://github.com/lindell/JsBarcode)
 - Web条码生成库。
 
-## [Wechaty](https://github.com/wechaty/wechaty)
-
-- [![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty)](https://github.com/wechaty/wechaty)
-- 微信RPA方案。
-
 ## [vue-cropper](https://github.com/xyxiao001/vue-cropper)
 
 - <kbd>Vue</kbd>
@@ -169,8 +164,17 @@
 - [![GitHub stars](https://img.shields.io/github/stars/zmzimpl/chrome-power-app)](https://github.com/zmzimpl/chrome-power-app)
 - 已废弃的指纹浏览器。
 
+## [Wechaty](https://github.com/wechaty/wechaty)
+
+- [![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty)](https://github.com/wechaty/wechaty)
+- 微信RPA方案。
+
 ## [whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js)
 
 - <kbd>RPA</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/wwebjs/whatsapp-web.js)](https://github.com/wwebjs/whatsapp-web.js)
 - WhatsApp RPA方案。
+
+## [stealth.min.js](https://github.com/requireCool/stealth.min.js)
+- [![GitHub stars](https://img.shields.io/github/stars/requireCool/stealth.min.js)](https://github.com/requireCool/stealth.min.js)
+- 已废弃的指纹浏览器插件
