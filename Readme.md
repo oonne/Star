@@ -46,6 +46,15 @@
 - [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite)](https://github.com/vitejs/vite)
 - 前端构建工具。
 
+## [Ollama](https://github.com/ollama/ollama)
+- [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama)](https://github.com/ollama/ollama)
+- 在本地运行大模型。
+
+## [Langchain](https://github.com/langchain-ai/langchain)
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)](https://github.com/langchain-ai/langchain)
+- 常用大模型框架。
+
 # 工程示范 & 实用工具
 
 ## [universal_ble](https://github.com/Navideck/universal_ble)
@@ -76,3 +85,18 @@
 ## [Wechaty](https://github.com/wechaty/wechaty)
 - [![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty)](https://github.com/wechaty/wechaty)
 - 微信RPA方案。
+
+## [vue-cropper](https://github.com/xyxiao001/vue-cropper)
+- <kbd>Vue</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/xyxiao001/vue-cropper)](https://github.com/xyxiao001/vue-cropper)
+- Vue图片裁剪组件。
+
+## [wangEditor](https://github.com/wangeditor-team/wangEditor)
+- <kbd>Web</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/wangeditor-team/wangEditor)](https://github.com/wangeditor-team/wangEditor)
+- 富文本编辑器。
+
+## [vue3-colorpicker](https://github.com/aesoper101/vue3-colorpicker)
+- <kbd>Vue</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/aesoper101/vue3-colorpicker)](https://github.com/aesoper101/vue3-colorpicker)
+- Vue颜色选择器组件。
