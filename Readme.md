@@ -1,101 +1,3 @@
-# 知识 & 策展
-
-## [中文独立开发者](https://github.com/1c7/chinese-independent-developer)
-
-- <kbd>中文独立开发者</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer)](https://github.com/1c7/chinese-independent-developer)
-- 中国独立开发者项目列表 -- 分享大家都在做什么。
-
-## [思源宋体](https://github.com/adobe-fonts/source-han-serif)
-
-- <kbd>开源字体</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/adobe-fonts/source-han-serif)](https://github.com/adobe-fonts/source-han-serif)
-
-## [古诗词大全](https://github.com/chinese-poetry/chinese-poetry)
-
-- [![GitHub stars](https://img.shields.io/github/stars/chinese-poetry/chinese-poetry)](https://github.com/chinese-poetry/chinese-poetry)
-- 最全诗词古文数据库。
-
-## [洛雪音乐](https://github.com/lyswhut/lx-music-desktop)
-
-- [![GitHub stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop)](https://github.com/lyswhut/lx-music-desktop)
-- 免费下载音乐的客户端。
-
-# 框架
-
-## [Playwright](https://github.com/microsoft/playwright)
-
-- <kbd>浏览器</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright)](https://github.com/microsoft/playwright)
-- 浏览器自动化框架。
-
-## [Nest](https://github.com/nestjs/nest)
-
-- <kbd>Node.js后台框架</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/nestjs/nest)](https://github.com/nestjs/nest)
-
-## [crypto-js](https://github.com/brix/crypto-js)
-
-- <kbd>JavaScript</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js)](https://github.com/brix/crypto-js)
-- JS加密库。
-
-## [jsencrypt](https://github.com/travist/jsencrypt)
-
-- <kbd>JavaScript</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/travist/jsencrypt)](https://github.com/travist/jsencrypt)
-- JS加密库。
-
-## [socket.io](https://github.com/socketio/socket.io)
-
-- <kbd>WebSocket</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/socketio/socket.io)](https://github.com/socketio/socket.io)
-
-## [ESP8266 Arduino](https://github.com/esp8266/Arduino)
-
-- <kbd>ESP8266</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/esp8266/Arduino)](https://github.com/esp8266/Arduino)
-- 可在ESP8266上运行的Arduino库。
-
-## [Lit](https://github.com/lit/lit)
-
-- <kbd>Web组件</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/lit/lit)](https://github.com/lit/lit)
-- Web components库。
-
-## [Vite](https://github.com/vitejs/vite)
-
-- [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite)](https://github.com/vitejs/vite)
-- 前端构建工具。
-
-## [Ollama](https://github.com/ollama/ollama)
-
-- [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama)](https://github.com/ollama/ollama)
-- 在本地运行大模型。
-
-## [Langchain](https://github.com/langchain-ai/langchain)
-
-- <kbd>Python</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)](https://github.com/langchain-ai/langchain)
-- 常用大模型框架。
-
-## [OpenClaw](https://github.com/openclaw/openclaw)
-
-- <kbd>JavaScript</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw)](https://github.com/openclaw/openclaw)
-- 小龙虾 本地Agent助手。
-
-## [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-
-- <kbd>CSS</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)
-
-## [acme.sh](https://github.com/acmesh-official/acme.sh)
-
-- <kbd>Shell</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/acmesh-official/acme.sh)](https://github.com/acmesh-official/acme.sh)
-- 自动更新SSL证书的运维神器。
-
 # 有趣的项目
 
 ## [Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer)
@@ -278,3 +180,101 @@
 - <kbd>Web</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/calesthio/Crucix)](https://github.com/calesthio/Crucix)
 - 全球情报聚合仪表盘。
+
+- # 知识 & 策展
+
+## [中文独立开发者](https://github.com/1c7/chinese-independent-developer)
+
+- <kbd>中文独立开发者</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer)](https://github.com/1c7/chinese-independent-developer)
+- 中国独立开发者项目列表 -- 分享大家都在做什么。
+
+## [思源宋体](https://github.com/adobe-fonts/source-han-serif)
+
+- <kbd>开源字体</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/adobe-fonts/source-han-serif)](https://github.com/adobe-fonts/source-han-serif)
+
+## [古诗词大全](https://github.com/chinese-poetry/chinese-poetry)
+
+- [![GitHub stars](https://img.shields.io/github/stars/chinese-poetry/chinese-poetry)](https://github.com/chinese-poetry/chinese-poetry)
+- 最全诗词古文数据库。
+
+## [洛雪音乐](https://github.com/lyswhut/lx-music-desktop)
+
+- [![GitHub stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop)](https://github.com/lyswhut/lx-music-desktop)
+- 免费下载音乐的客户端。
+
+# 框架
+
+## [Playwright](https://github.com/microsoft/playwright)
+
+- <kbd>浏览器</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright)](https://github.com/microsoft/playwright)
+- 浏览器自动化框架。
+
+## [Nest](https://github.com/nestjs/nest)
+
+- <kbd>Node.js后台框架</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/nestjs/nest)](https://github.com/nestjs/nest)
+
+## [crypto-js](https://github.com/brix/crypto-js)
+
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js)](https://github.com/brix/crypto-js)
+- JS加密库。
+
+## [jsencrypt](https://github.com/travist/jsencrypt)
+
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/travist/jsencrypt)](https://github.com/travist/jsencrypt)
+- JS加密库。
+
+## [socket.io](https://github.com/socketio/socket.io)
+
+- <kbd>WebSocket</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/socketio/socket.io)](https://github.com/socketio/socket.io)
+
+## [ESP8266 Arduino](https://github.com/esp8266/Arduino)
+
+- <kbd>ESP8266</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/esp8266/Arduino)](https://github.com/esp8266/Arduino)
+- 可在ESP8266上运行的Arduino库。
+
+## [Lit](https://github.com/lit/lit)
+
+- <kbd>Web组件</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/lit/lit)](https://github.com/lit/lit)
+- Web components库。
+
+## [Vite](https://github.com/vitejs/vite)
+
+- [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite)](https://github.com/vitejs/vite)
+- 前端构建工具。
+
+## [Ollama](https://github.com/ollama/ollama)
+
+- [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama)](https://github.com/ollama/ollama)
+- 在本地运行大模型。
+
+## [Langchain](https://github.com/langchain-ai/langchain)
+
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)](https://github.com/langchain-ai/langchain)
+- 常用大模型框架。
+
+## [OpenClaw](https://github.com/openclaw/openclaw)
+
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw)](https://github.com/openclaw/openclaw)
+- 小龙虾 本地Agent助手。
+
+## [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
+- <kbd>CSS</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)
+
+## [acme.sh](https://github.com/acmesh-official/acme.sh)
+
+- <kbd>Shell</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/acmesh-official/acme.sh)](https://github.com/acmesh-official/acme.sh)
+- 自动更新SSL证书的运维神器。
