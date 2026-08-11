@@ -8,6 +8,10 @@
 - [![GitHub stars](https://img.shields.io/github/stars/chinese-poetry/chinese-poetry)](https://github.com/chinese-poetry/chinese-poetry)
 - 最全诗词古文数据库。
 
+## [洛雪音乐](https://github.com/lyswhut/lx-music-desktop)
+- [![GitHub stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop)](https://github.com/lyswhut/lx-music-desktop)
+- 免费下载音乐的客户端。
+
 # 框架
 
 ## [Nest](https://github.com/nestjs/nest)
@@ -17,6 +21,11 @@
 ## [crypto-js](https://github.com/brix/crypto-js)
 - <kbd>JavaScript</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js)](https://github.com/brix/crypto-js)
+- JS加密库。
+
+## [jsencrypt](httpsavist/jsencrypt)
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/avist/jsencrypt)](https://github.com/avist/jsencrypt)
 - JS加密库。
 
 ## [socket.io](https://github.com/socketio/socket.io)
@@ -32,6 +41,10 @@
 - <kbd>Web组件</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/lit/lit)](https://github.com/lit/lit)
 - Web components库。
+
+## [Vite](https://github.com/vitejs/vite)
+- [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite)](https://github.com/vitejs/vite)
+- 前端构建工具。
 
 # 工程示范 & 实用工具
 
@@ -49,3 +62,17 @@
 - <kbd>Web</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/tradingview/charting-library-examples)](https://github.com/tradingview/charting-library-examples)
 - 渲染K线、分时图等金融交易图表。
+
+## [Painter](https://github.com/manycore-maas/Painter)
+- <kbd>小程序</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/manycore-maas/Painter)](https://github.com/manycore-maas/Painter)
+- 小程序Canvas画图工具。
+
+## [JsBarcode](https://github.com/lindell/JsBarcode)
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/lindell/JsBarcode)](https://github.com/lindell/JsBarcode)
+- Web条码生成库。
+
+## [Wechaty](https://github.com/wechaty/wechaty)
+- [![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty)](https://github.com/wechaty/wechaty)
+- 微信RPA方案。
