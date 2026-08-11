@@ -37,7 +37,7 @@
 ## [jsencrypt](httpsavist/jsencrypt)
 
 - <kbd>JavaScript</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/avist/jsencrypt)](https://github.com/avist/jsencrypt)
+- [![GitHub stars](https://img.shields.io/github/stars/httpsavist/jsencrypt)](https://github.com/httpsavist/jsencrypt)
 - JS加密库。
 
 ## [socket.io](https://github.com/socketio/socket.io)
