@@ -1,5 +1,11 @@
 # 知识 & 策展
 
+## [中文独立开发者](https://github.com/1c7/chinese-independent-developer)
+
+- <kbd>中文独立开发者</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer)](https://github.com/1c7/chinese-independent-developer)
+- 中国独立开发者项目列表 -- 分享大家都在做什么。
+
 ## [思源宋体](https://github.com/adobe-fonts/source-han-serif)
 
 - <kbd>开源字体</kbd>
@@ -84,13 +90,13 @@
 - <kbd>CSS</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)
 
-# 工程示范 & 实用工具
-
 ## [acme.sh](https://github.com/acmesh-official/acme.sh)
 
 - <kbd>Shell</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/acmesh-official/acme.sh)](https://github.com/acmesh-official/acme.sh)
 - 自动更新SSL证书的运维神器。
+
+# 有趣的项目
 
 ## [Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer)
 
@@ -109,6 +115,12 @@
 - <kbd>Web</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/jingguanzhang/PaperStudio)](https://github.com/jingguanzhang/PaperStudio)
 - 打印设计工具。
+
+## [Ice](https://github.com/jordanbaird/Ice)
+
+- <kbd>Mac</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/jordanbaird/Ice)](https://github.com/jordanbaird/Ice)
+- Mac菜单栏管理工具。
 
 # 前端开发
 
@@ -207,6 +219,11 @@
 - 从音乐平台下载音乐的工具。QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music等。
 
 # 爬虫、RPA、浏览器自动化
+
+## [OpenCLI](https://github.com/jackwener/OpenCLI)
+
+- [![GitHub stars](https://img.shields.io/github/stars/jackwener/OpenCLI)](https://github.com/jackwener/OpenCLI)
+- AI原生浏览器，把任何网站变成命令行工具。支持B站、知乎、小红书等。
 
 ## [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
 
