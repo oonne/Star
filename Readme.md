@@ -10,6 +10,15 @@
 
 # 框架
 
+## [Nest](https://github.com/nestjs/nest)
+- <kbd>Node.js后台框架</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/nestjs/nest)](https://github.com/nestjs/nest)
+
+## [crypto-js](https://github.com/brix/crypto-js)
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/brix/crypto-js)](https://github.com/brix/crypto-js)
+- JS加密库。
+
 ## [socket.io](https://github.com/socketio/socket.io)
 - <kbd>WebSocket</kbd>  
 - [![GitHub stars](https://img.shields.io/github/stars/socketio/socket.io)](https://github.com/socketio/socket.io)
@@ -18,6 +27,11 @@
 - <kbd>ESP8266</kbd>  
 - [![GitHub stars](https://img.shields.io/github/stars/esp8266/Arduino)](https://github.com/esp8266/Arduino)
 - 可在ESP8266上运行的Arduino库。
+
+## [Lit](https://github.com/lit/lit)
+- <kbd>Web组件</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/lit/lit)](https://github.com/lit/lit)
+- Web components库。
 
 # 工程示范 & 实用工具
 
