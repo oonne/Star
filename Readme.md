@@ -24,6 +24,18 @@
 - [![GitHub stars](https://img.shields.io/github/stars/jordanbaird/Ice)](https://github.com/jordanbaird/Ice)
 - Mac菜单栏管理工具。
 
+## [VibeVoice](https://github.com/microsoft/VibeVoice)
+
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice)](https://github.com/microsoft/VibeVoice)
+- 超长语音识别，支持60分钟超长语音识别。
+
+## [personaplex](https://github.com/NVIDIA/personaplex)
+
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/personaplex)](https://github.com/NVIDIA/personaplex)
+- 全双工实时语音对话模型，支持随时打断、音色克隆以及通过文本提示（Prompt）进行角色扮演。
+
 # 前端开发
 
 ## [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
