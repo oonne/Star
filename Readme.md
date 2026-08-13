@@ -1,3 +1,11 @@
+# 周刊
+
+## [中文独立开发者](https://github.com/1c7/chinese-independent-developer)
+
+- <kbd>中文独立开发者</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer)](https://github.com/1c7/chinese-independent-developer)
+- 中国独立开发者项目列表 -- 分享大家都在做什么。
+
 # 有趣的项目
 
 ## [Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer)
@@ -136,6 +144,7 @@
 
 ## [OpenCLI](https://github.com/jackwener/OpenCLI)
 
+- <kbd>Node.js</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/jackwener/OpenCLI)](https://github.com/jackwener/OpenCLI)
 - AI原生浏览器，把任何网站变成命令行工具。支持B站、知乎、小红书等。
 
@@ -145,22 +154,22 @@
 - [![GitHub stars](https://img.shields.io/github/stars/fingerprintjs/fingerprintjs)](https://github.com/fingerprintjs/fingerprintjs)
 - 浏览器指纹识别库。
 
-## [chrome-power-app](https://github.com/zmzimpl/chrome-power-app)
-
-- <kbd>Chrome</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/zmzimpl/chrome-power-app)](https://github.com/zmzimpl/chrome-power-app)
-- 已废弃的指纹浏览器。
-
 ## [Wechaty](https://github.com/wechaty/wechaty)
 
+- <kbd>TypeScript</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty)](https://github.com/wechaty/wechaty)
 - 微信RPA方案。
 
 ## [whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js)
 
-- <kbd>RPA</kbd>
+- <kbd>Node.js</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/wwebjs/whatsapp-web.js)](https://github.com/wwebjs/whatsapp-web.js)
 - WhatsApp RPA方案。
+
+## [chrome-power-app](https://github.com/zmzimpl/chrome-power-app)
+
+- [![GitHub stars](https://img.shields.io/github/stars/zmzimpl/chrome-power-app)](https://github.com/zmzimpl/chrome-power-app)
+- 已废弃的指纹浏览器。
 
 ## [stealth.min.js](https://github.com/requireCool/stealth.min.js)
 
@@ -193,13 +202,7 @@
 - [![GitHub stars](https://img.shields.io/github/stars/calesthio/Crucix)](https://github.com/calesthio/Crucix)
 - 全球情报聚合仪表盘。
 
-- # 知识 & 策展
-
-## [中文独立开发者](https://github.com/1c7/chinese-independent-developer)
-
-- <kbd>中文独立开发者</kbd>
-- [![GitHub stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer)](https://github.com/1c7/chinese-independent-developer)
-- 中国独立开发者项目列表 -- 分享大家都在做什么。
+# 资源
 
 ## [思源宋体](https://github.com/adobe-fonts/source-han-serif)
 
@@ -226,7 +229,7 @@
 
 ## [Nest](https://github.com/nestjs/nest)
 
-- <kbd>Node.js后台框架</kbd>
+- <kbd>Node.js</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/nestjs/nest)](https://github.com/nestjs/nest)
 
 ## [crypto-js](https://github.com/brix/crypto-js)
@@ -254,12 +257,13 @@
 
 ## [Lit](https://github.com/lit/lit)
 
-- <kbd>Web组件</kbd>
+- <kbd>Web</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/lit/lit)](https://github.com/lit/lit)
 - Web components库。
 
 ## [Vite](https://github.com/vitejs/vite)
 
+- <kbd>JavaScript</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite)](https://github.com/vitejs/vite)
 - 前端构建工具。
 
