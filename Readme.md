@@ -148,6 +148,18 @@
 - [![GitHub stars](https://img.shields.io/github/stars/jackwener/OpenCLI)](https://github.com/jackwener/OpenCLI)
 - AI原生浏览器，把任何网站变成命令行工具。支持B站、知乎、小红书等。
 
+## [crawl4AI](https://github.com/unclecode/crawl4AI)
+
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4AI)](https://github.com/unclecode/crawl4AI)
+- 将复杂的 Web 页面高效地转化为结构化、AI 易读的 Markdown 或 JSON 格式，方便大模型使用。完全原生的非 AI 提取方案。
+
+## [Scrapling](https://github.com/d4vinci/Scrapling)
+
+- <kbd>Python</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/d4vinci/Scrapling)](https://github.com/d4vinci/Scrapling)
+- 爬虫工具，能从网站变化中学习，并在页面更新时自动重新定位您的元素。
+
 ## [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
 
 - <kbd>JavaScript</kbd>
