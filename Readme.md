@@ -116,6 +116,12 @@
 - [![GitHub stars](https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer)](https://github.com/embedpdf/embed-pdf-viewer)
 - 在网页中优雅展示PDF。
 
+## [open-file-viewer](https://github.com/xushanpei/open-file-viewer)
+
+- <kbd>JavaScript</kbd>
+- [![GitHub stars](https://img.shields.io/github/stars/xushanpei/open-file-viewer)](https://github.com/xushanpei/open-file-viewer)
+- 在网页中优雅展示PDF、Office、图片、音视频、压缩包、邮件、图纸、3D、GIS 和代码文件等等。
+
 ## [VERT](https://github.com/VERT-sh/VERT)
 
 - <kbd>Web</kbd>
@@ -158,7 +164,7 @@
 
 - <kbd>Python</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/d4vinci/Scrapling)](https://github.com/d4vinci/Scrapling)
-- 爬虫工具，能从网站变化中学习，并在页面更新时自动重新定位您的元素。
+- 爬虫工具，能从网站变化中学习，并在页面更新时自动重新定位元素。
 
 ## [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
 
