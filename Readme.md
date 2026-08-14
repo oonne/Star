@@ -164,7 +164,7 @@
 
 - <kbd>Node.js</kbd>
 - [![GitHub stars](https://img.shields.io/github/stars/wwebjs/whatsapp-web.js)](https://github.com/wwebjs/whatsapp-web.js)
-- WhatsApp RPA方案。
+- WhatsApp RPA方案。[文档](https://docs.wwebjs.dev/)
 
 ## [chrome-power-app](https://github.com/zmzimpl/chrome-power-app)
 
